@@ -5,7 +5,7 @@
  OMNeT++ 5.2 and INET-3.6.2-22b15eb
  
 # Installation
- Download and install current or later versions of OMNeT++ 5.2 and INET-3.6.2.
+ Download and install OMNeT++ version 5.2 or later and INET-3.6.2.
 
 # Features
  Single-hop mobile adhoc network and n-hop mobile adhoc network
